@@ -8,3 +8,4 @@ This dashboard helps the awesome chocklates companny understand their customers 
 
 
 
+![power bi chocklates](https://github.com/user-attachments/assets/31a548c7-1cb4-4ec0-af53-92239514f529)
